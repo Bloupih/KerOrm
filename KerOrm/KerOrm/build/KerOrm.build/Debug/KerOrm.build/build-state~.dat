@@ -1,0 +1,494 @@
+TKerOrm
+v7
+r0
+t417545711.078485
+cCheck dependencies
+cProcessPCH /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch.gch KerOrm/KerOrm-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/keruser.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/keruser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMCreateTable.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/DBGest.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMRequest.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/main.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/KerOrm" normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D5A279000000000000C7160
+t1297754000
+s815456
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC401D100000000000013E6
+t1287913937
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/runtime.h
+c000000004CC31CFD000000000000530A
+t1287855357
+s21258
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sqlite3.h
+c000000004CC3EB2A000000000003D86F
+t1287908138
+s252015
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libsqlite3.dylib
+c000000004D5A2794000000000000CB64
+t1297754004
+s52068
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.h
+c000000005332E5B60000000000000321
+t1395844534
+s801
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+i"ORMRequest.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m
+c000000005333065E0000000000003125
+t1395852894
+s12581
+i"DBGest.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerOrm-Prefix.pch
+c00000000532F2A7800000000000000B6
+t1395599992
+s182
+i<Foundation/Foundation.h>
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerUser.h
+c000000005332DE2C00000000000001EA
+t1395842604
+s490
+i<Foundation/Foundation.h>
+i"DBGest.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerUser.m
+c000000005332DDED00000000000000E9
+t1395842541
+s233
+i"KerUser.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h
+c000000005332F5CF000000000000015C
+t1395848655
+s348
+i<Foundation/Foundation.h>
+i"ORMRequest.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m
+c000000005332F51000000000000000D0
+t1395848464
+s208
+i"NSString.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.h
+c00000000532F8CE900000000000000F1
+t1395625193
+s241
+i<Foundation/Foundation.h>
+i"DBGest.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m
+c000000005332EF900000000000001C5E
+t1395847056
+s7262
+i"ORMCreateTable.h"
+i"ORMRequest.h"
+i<objc/runtime.h>
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.h
+c000000005332F97B0000000000000131
+t1395849595
+s305
+i<Foundation/Foundation.h>
+i"DBGest.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m
+c000000005332F9750000000000000DB0
+t1395849589
+s3504
+i"ORMRequest.h"
+i<objc/runtime.h>
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.h
+c000000005332C57500000000000001E1
+t1395836277
+s481
+i<Foundation/Foundation.h>
+i"DBGest.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m
+c000000005332DBA800000000000000E3
+t1395841960
+s227
+i"User.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/keruser.h
+c000000005332EE5600000000000001EA
+t1395846742
+s490
+i<Foundation/Foundation.h>
+i"DBGest.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/keruser.m
+c000000005332EE6A00000000000000E9
+t1395846762
+s233
+i"keruser.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m
+c000000005332FED900000000000008E2
+t1395850969
+s2274
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+i"DBGest.h"
+i"KerUser.h"
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/KerOrm
+t1395852911
+s36536
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/DBGest.o
+t1395852910
+s28712
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/KerOrm.LinkFileList
+c000000005333066B000000000000024A
+t1395852907
+s586
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/KerUser.o
+t1395845290
+s8516
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/NSString.o
+t2
+s0
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMCreateTable.o
+t1395852910
+s19148
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMRequest.o
+t1395852910
+s14128
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/User.o
+t1395836288
+s8416
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/keruser.o
+t1395852910
+s8516
+
+N/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/main.o
+t1395852910
+s10448
+
+N/var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch.gch
+t1395852910
+s43952944
+
+N/var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-dlhsjrmncyoytrfzdkstwgkeghwe/KerOrm-Prefix.pch.gch
+t1395831795
+s32037680
+
+N/var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-gczgivqldxiwvlbwsnmdnewfhsvj/KerOrm-Prefix.pch.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies417545707#417545707#0(153"[WARN]Mac OS X deployment target '10.9' for architecture 'i386' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.1(22@146"Mac OS X deployment target '10.9' for architecture 'i386' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.417545707#18446744073709551615#0#0(1@0"0(0#1#0"8642279936#0"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/DBGest.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s417545710.611848
+e417545710.874522
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/DBGest.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m: In function '-[DBGest findSimpleObjects::withError:]':
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:77: warning: initialization from incompatible pointer type
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:81: warning: passing argument 1 of 'stringWithUTF8String:' from incompatible pointer type
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:91: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:97: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:98: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:106: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:114: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:120: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m: In function '-[DBGest findObjects::withError:]':
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:184: warning: assignment discards qualifiers from pointer target type
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:194: warning: assignment discards qualifiers from pointer target type
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:211: warning: implicit conversion shortens 64-bit value into a 32-bit value
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m: At top level:
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:403: warning: incomplete implementation of class 'DBGest'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:403: warning: method definition for '-findObjects:nomClasse:withError:' not found
+lSLF07#2@71"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545710#417545710#0(2208"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m: In function '-[DBGest findSimpleObjects::withError:]':/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:77: warning: initialization from incompatible pointer type/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:81: warning: passing argument 1 of 'stringWithUTF8String:' from incompatible pointer type/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:91: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:97: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:98: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:106: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:114: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:120: warning: passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m: In function '-[DBGest findObjects::withError:]':/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:184: warning: assignment discards qualifiers from pointer target type/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:194: warning: assignment discards qualifiers from pointer target type/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:211: warning: implicit conversion shortens 64-bit value into a 32-bit value/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m: At top level:/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:403: warning: incomplete implementation of class 'DBGest'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:403: warning: method definition for '-findObjects:nomClasse:withError:' not found14(22@45"Initialization from incompatible pointer type417545710#120#123#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#77#0#77#0#45"initialization from incompatible pointer type0(22@76"Passing argument 1 of 'stringWithUTF8String:' from incompatible pointer type417545710#243#154#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#81#0#81#0#56"passing argument * of '*' from incompatible pointer type0(22@82"Passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type417545710#397#160#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#91#0#91#0#56"passing argument * of '*' from incompatible pointer type0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value417545710#557#139#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#97#0#97#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(22@82"Passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type417545710#696#160#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#98#0#98#0#56"passing argument * of '*' from incompatible pointer type0(22@82"Passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type417545710#856#161#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#106#0#106#0#56"passing argument * of '*' from incompatible pointer type0(22@82"Passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type417545710#1017#161#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#114#0#114#0#56"passing argument * of '*' from incompatible pointer type0(22@82"Passing argument 1 of 'stringWithCString:encoding:' from incompatible pointer type417545710#1178#161#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#120#0#120#0#56"passing argument * of '*' from incompatible pointer type0(22@55"Assignment discards qualifiers from pointer target type417545710#1453#134#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#184#0#184#0#55"assignment discards qualifiers from pointer target type0(22@55"Assignment discards qualifiers from pointer target type417545710#1587#134#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#194#0#194#0#55"assignment discards qualifiers from pointer target type0(22@61"Implicit conversion shortens 64-bit value into a 32-bit value417545710#1721#140#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#211#0#211#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(23@13"At top level:417545710#1861#79#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#0#0#0#0#0"0(22@43"Incomplete implementation of class 'DBGest'417545710#1940#122#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#403#0#403#0#38"incomplete implementation of class '*'0(22@67"Method definition for '-findObjects:nomClasse:withError:' not found417545710#2062#146#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417545694#403#0#403#0#35"method definition for '*' not found0(0#0#63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m8639697472#1592"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/DBGest.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/DBGest.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s417524595.729748
+e417524595.917882
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/DBGest.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m: In function '-[DBGest SQLQuery:withArguments:andError:]':
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:179: warning: implicit conversion shortens 64-bit value into a 32-bit value
+lSLF07#2@71"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417524595#417524595#0(263"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m: In function '-[DBGest SQLQuery:withArguments:andError:]':/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m:179: warning: implicit conversion shortens 64-bit value into a 32-bit value1(22@61"Implicit conversion shortens 64-bit value into a 32-bit value417524595#123#140#0(6@63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m417519007#179#0#179#0#61"implicit conversion shortens 64-bit value into a 32-bit value0(0#0#63"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m8637103776#1597"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-dlhsjrmncyoytrfzdkstwgkeghwe/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/DBGest.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/DBGest.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/KerUser.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerUser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s417538090.146468
+e417538090.334876
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/KerUser.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerUser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerUser.m417538090#417538090#0(0"0(0#0#64"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerUser.m8637732192#1594"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerUser.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/KerUser.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/NSString.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s417541469.293782
+e417541469.415827
+r0
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/NSString.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:9:
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h:12: error: duplicate interface declaration for class 'NSString'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h:15: error: redefinition of 'struct NSString'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:14: error: no declaration of property 'NSString_id' found in the interface
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:14: error: no declaration of property 'value' found in the interface
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: incomplete implementation of class 'NSString'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-characterAtIndex:' not found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-length' not found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: incomplete implementation of class 'NSString'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-copyWithZone:' not found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: class 'NSString' does not fully implement the 'NSCopying' protocol
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: incomplete implementation of class 'NSString'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-mutableCopyWithZone:' not found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: class 'NSString' does not fully implement the 'NSMutableCopying' protocol
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: incomplete implementation of class 'NSString'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-initWithCoder:' not found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-encodeWithCoder:' not found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: class 'NSString' does not fully implement the 'NSCoding' protocol
+lSLF07#2@73"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541469#417541469#0(2328"In file included from /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:9:/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h:12: error: duplicate interface declaration for class 'NSString'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h:15: error: redefinition of 'struct NSString'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:14: error: no declaration of property 'NSString_id' found in the interface/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:14: error: no declaration of property 'value' found in the interface/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: incomplete implementation of class 'NSString'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-characterAtIndex:' not found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-length' not found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: incomplete implementation of class 'NSString'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-copyWithZone:' not found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: class 'NSString' does not fully implement the 'NSCopying' protocol/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: incomplete implementation of class 'NSString'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-mutableCopyWithZone:' not found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: class 'NSString' does not fully implement the 'NSMutableCopying' protocol/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: incomplete implementation of class 'NSString'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-initWithCoder:' not found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: method definition for '-encodeWithCoder:' not found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m:17: warning: class 'NSString' does not fully implement the 'NSCoding' protocol17(4@52"Duplicate interface declaration for class 'NSString'417541469#91#130#2(7@87"In file included from /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541469#18446744073709551615#0#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#9#0#9#0#0"0(13@121"Duplicate interface declaration for class 'NSString' in /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h417541469#18446744073709551615#0#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h417541455#12#0#12#0#0"0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h417541455#12#0#12#0#0"0(4@33"Redefinition of 'struct NSString'417541469#221#111#2(7@87"In file included from /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541469#18446744073709551615#0#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#9#0#9#0#0"0(13@102"Redefinition of 'struct NSString' in /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h417541469#18446744073709551615#0#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h417541455#15#0#15#0#0"0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.h417541455#15#0#15#0#19"redefinition of '*'0(4@63"No declaration of property 'NSString_id' found in the interface417541469#332#141#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#14#0#14#0#0"0(4@57"No declaration of property 'value' found in the interface417541469#473#135#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#14#0#14#0#0"0(22@45"Incomplete implementation of class 'NSString'417541469#608#125#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#38"incomplete implementation of class '*'0(22@52"Method definition for '-characterAtIndex:' not found417541469#733#132#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#35"method definition for '*' not found0(22@41"Method definition for '-length' not found417541469#865#121#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#35"method definition for '*' not found0(22@45"Incomplete implementation of class 'NSString'417541469#986#125#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#38"incomplete implementation of class '*'0(22@48"Method definition for '-copyWithZone:' not found417541469#1111#128#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#35"method definition for '*' not found0(22@66"Class 'NSString' does not fully implement the 'NSCopying' protocol417541469#1239#146#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#51"class '*' does not fully implement the '*' protocol0(22@45"Incomplete implementation of class 'NSString'417541469#1385#125#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#38"incomplete implementation of class '*'0(22@55"Method definition for '-mutableCopyWithZone:' not found417541469#1510#135#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#35"method definition for '*' not found0(22@73"Class 'NSString' does not fully implement the 'NSMutableCopying' protocol417541469#1645#153#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#51"class '*' does not fully implement the '*' protocol0(22@45"Incomplete implementation of class 'NSString'417541469#1798#125#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-initWithCoder:' not found417541469#1923#129#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#35"method definition for '*' not found0(22@51"Method definition for '-encodeWithCoder:' not found417541469#2052#131#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#35"method definition for '*' not found0(22@65"Class 'NSString' does not fully implement the 'NSCoding' protocol417541469#2183#145#0(6@65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m417541264#17#0#17#0#51"class '*' does not fully implement the '*' protocol0(0#0#65"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m8642794432#1596"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/NSString.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/NSString.o"1#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMCreateTable.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s417545710.462416
+e417545710.655203
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMCreateTable.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m: In function '+[ORMCreateTable createTable:withModels:]':
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: no '+indexes' method found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: (Messages without a matching method signature
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: will be assumed to return 'id' and accept
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: '...' as arguments.)
+lSLF07#2@79"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m417545710#417545710#0(610"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m: In function '+[ORMCreateTable createTable:withModels:]':/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: no '+indexes' method found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: (Messages without a matching method signature/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: will be assumed to return 'id' and accept/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: '...' as arguments.)2(22@26"No '+indexes' method found417545710#130#113#0(6@71"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m417539856#143#0#143#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)417545710#243#132#0(6@71"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m417539856#143#0#143#0#0"0(0#0#71"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m8642975840#1608"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMCreateTable.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMCreateTable.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s417524595.494561
+e417524595.757045
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMCreateTable.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m: In function '+[ORMCreateTable createTable:withModels:]':
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: no '+indexes' method found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: (Messages without a matching method signature
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: will be assumed to return 'id' and accept
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: '...' as arguments.)
+lSLF07#2@79"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m417524595#417524595#0(610"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m: In function '+[ORMCreateTable createTable:withModels:]':/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: no '+indexes' method found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: (Messages without a matching method signature/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: will be assumed to return 'id' and accept/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m:143: warning: '...' as arguments.)2(22@26"No '+indexes' method found417524595#130#113#0(6@71"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m417464560#143#0#143#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)417524595#243#132#0(6@71"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m417464560#143#0#143#0#0"0(0#0#71"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m8636932064#1613"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-dlhsjrmncyoytrfzdkstwgkeghwe/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMCreateTable.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMCreateTable.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMRequest.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s417545710.655312
+e417545710.859814
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMRequest.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m417545710#417545710#0(0"0(0#0#67"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m8641916928#1600"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMRequest.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMRequest.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s417524595.757148
+e417524595.936499
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMRequest.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m: In function '-[ORMRequest save:]':
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:30: warning: no '+keys' method found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:30: warning: (Messages without a matching method signature
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:30: warning: will be assumed to return 'id' and accept
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:30: warning: '...' as arguments.)
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m: At top level:
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:117: warning: incomplete implementation of class 'ORMRequest'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:117: warning: method definition for '-keys' not found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:117: warning: method definition for '-colonneUniqueValue:' not found
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:117: warning: method definition for '-indexes' not found
+lSLF07#2@75"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m417524595#417524595#0(1158"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m: In function '-[ORMRequest save:]':/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:30: warning: no '+keys' method found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:30: warning: (Messages without a matching method signature/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:30: warning: will be assumed to return 'id' and accept/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:30: warning: '...' as arguments.)/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m: At top level:/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:117: warning: incomplete implementation of class 'ORMRequest'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:117: warning: method definition for '-keys' not found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:117: warning: method definition for '-colonneUniqueValue:' not found/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m:117: warning: method definition for '-indexes' not found7(22@23"No '+keys' method found417524595#104#105#0(6@67"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m417524175#30#0#30#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)417524595#209#127#0(6@67"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m417524175#30#0#30#0#0"0(23@13"At top level:417524595#561#83#0(6@67"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m417524175#0#0#0#0#0"0(22@47"Incomplete implementation of class 'ORMRequest'417524595#644#130#0(6@67"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m417524175#117#0#117#0#38"incomplete implementation of class '*'0(22@39"Method definition for '-keys' not found417524595#774#122#0(6@67"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m417524175#117#0#117#0#35"method definition for '*' not found0(22@54"Method definition for '-colonneUniqueValue:' not found417524595#896#137#0(6@67"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m417524175#117#0#117#0#35"method definition for '*' not found0(22@42"Method definition for '-indexes' not found417524595#1033#125#0(6@67"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m417524175#117#0#117#0#35"method definition for '*' not found0(0#0#67"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m8635329600#1605"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-dlhsjrmncyoytrfzdkstwgkeghwe/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/ORMRequest.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/ORMRequest.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/User.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s417529087.933111
+e417529089.128361
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/User.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m417529087#417529089#0(0"0(0#0#61"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m8635406688#1588"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/User.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/User.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s417524595.457974
+e417524595.729645
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/User.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@69"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m417524595#417524595#0(0"0(0#0#61"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m8638581664#1593"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-dlhsjrmncyoytrfzdkstwgkeghwe/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/User.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/User.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/keruser.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/keruser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s417545710.461269
+e417545710.611742
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/keruser.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/keruser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/keruser.m417545710#417545710#0(0"0(0#0#64"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/keruser.m8643345856#1594"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/keruser.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/keruser.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/main.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s417545710.859930
+e417545711.008322
+r1
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/main.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m: In function 'main':
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:51: warning: 'DBGest' may not respond to '-findSimpleObjects::withError:'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:51: warning: (Messages without a matching method signature
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:51: warning: will be assumed to return 'id' and accept
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:51: warning: '...' as arguments.)
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:81: warning: 'DBGest' may not respond to '-findObjects::withError:'
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:81: warning: unused variable 'kerusers'
+lSLF07#2@69"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m417545710#417545711#0(785"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m: In function 'main':/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:51: warning: 'DBGest' may not respond to '-findSimpleObjects::withError:'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:51: warning: (Messages without a matching method signature/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:51: warning: will be assumed to return 'id' and accept/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:51: warning: '...' as arguments.)/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:81: warning: 'DBGest' may not respond to '-findObjects::withError:'/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:81: warning: unused variable 'kerusers'4(22@60"'DBGest' may not respond to '-findSimpleObjects::withError:'417545710#83#136#0(6@61"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m417543769#51#0#51#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)417545710#219#121#0(6@61"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m417543769#51#0#51#0#0"0(22@54"'DBGest' may not respond to '-findObjects::withError:'417545710#553#130#0(6@61"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m417543769#81#0#81#0#26"'*' may not respond to '*'0(22@26"Unused variable 'kerusers'417545710#683#102#0(6@61"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m417543769#81#0#81#0#19"unused variable '*'0(0#0#61"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m8643158048#1588"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/main.o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s417524595.918203
+e417524596.015228
+r0
+xCompileC
+xbuild/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/main.o
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m: In function 'main':
+o/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:19: error: expected expression before '@' token
+lSLF07#2@69"Compile /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m417524595#417524596#0(193"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m: In function 'main':/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m:19: error: expected expression before '@' token1(4@36"Expected expression before '@' token417524595#83#110#0(6@61"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m417524490#19#0#19#0#19"expected * before *0(0#0#61"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m8634427680#1593"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -include /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-dlhsjrmncyoytrfzdkstwgkeghwe/KerOrm-Prefix.pch -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/main.m" -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/main.o"1#
+
+CLd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/KerOrm" normal i386
+s417545711.008417
+e417545711.078415
+r1
+xLd
+x/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/KerOrm
+xnormal
+xi386
+lSLF07#2@71"Link /Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/KerOrm417545711#417545711#0(0"0(0#0#0"8642689248#586"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" -filelist "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/Objects-normal/i386/KerOrm.LinkFileList" -mmacosx-version-min=10.9 -lsqlite3 -framework Foundation -prebind -o "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/KerOrm"0#
+
+CProcessPCH /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch.gch KerOrm/KerOrm-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s417545707.061241
+e417545710.461017
+r1
+xProcessPCH
+x/var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch.gch
+xKerOrm/KerOrm-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile KerOrm/KerOrm-Prefix.pch417545707#417545710#0(0"0(0#0#72"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerOrm-Prefix.pch8642619424#1486"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerOrm-Prefix.pch" -o /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-debyxylqlbcgpgcdfavdywzfaouu/KerOrm-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-dlhsjrmncyoytrfzdkstwgkeghwe/KerOrm-Prefix.pch.gch KerOrm/KerOrm-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s417524591.553302
+e417524595.457769
+r1
+xProcessPCH
+x/var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-dlhsjrmncyoytrfzdkstwgkeghwe/KerOrm-Prefix.pch.gch
+xKerOrm/KerOrm-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@35"Precompile KerOrm/KerOrm-Prefix.pch417524591#417524595#0(0"0(0#0#72"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerOrm-Prefix.pch8637108960#1491"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerOrm-Prefix.pch" -o /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-dlhsjrmncyoytrfzdkstwgkeghwe/KerOrm-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-gczgivqldxiwvlbwsnmdnewfhsvj/KerOrm-Prefix.pch.gch KerOrm/KerOrm-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s417517443.930141
+e417517443.989190
+r0
+xProcessPCH
+x/var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-gczgivqldxiwvlbwsnmdnewfhsvj/KerOrm-Prefix.pch.gch
+xKerOrm/KerOrm-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: error: unrecognized command line option "-fno-objc-arc"
+lSLF07#2@35"Precompile KerOrm/KerOrm-Prefix.pch417517443#417517443#0(64"cc1obj: error: unrecognized command line option "-fno-objc-arc"1(4@48"Unrecognized command line option "-fno-objc-arc"417517443#0#64#0(6@0"417517443#0#0#0#0#0"0(0#0#72"/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerOrm-Prefix.pch8615690816#1500"    cd "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wunused-function -Wunused-variable -Wshorten-64-to-32 -Wundeclared-selector -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.9 -gdwarf-2 -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-generated-files.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-own-target-headers.hmap" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-all-target-headers.hmap" -iquote "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/KerOrm-project-headers.hmap" "-F/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/Debug/include" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources/i386" "-I/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/build/KerOrm.build/Debug/KerOrm.build/DerivedSources" -fno-objc-arc -c "/Users/xpl0ze/Desktop/Projet Jeff/KerOrm/KerOrm/KerOrm/KerOrm-Prefix.pch" -o /var/folders/RH/RHDH11SuExGa0XFwtARLHU+++TU/-Caches-/com.apple.Xcode.504/SharedPrecompiledHeaders/KerOrm-Prefix-gczgivqldxiwvlbwsnmdnewfhsvj/KerOrm-Prefix.pch.gch1#
+
